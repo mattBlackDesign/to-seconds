@@ -13,7 +13,7 @@ declare const toSeconds: {
 
 	@example
 	```
-	import toSeconds = require('@mattblackdesign/to-seconds');
+	import toSeconds = require('@mblackmblack/to-seconds');
 
 	toSeconds({
 		days: 15,

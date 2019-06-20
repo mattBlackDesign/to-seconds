@@ -6,16 +6,16 @@
 ## Install
 
 ```
-$ npm install @mattblackdesign/to-seconds
+$ npm install @mblackmblack/to-seconds
 ```
 
 
 ## Usage
 
 ```js
-const toMilliseconds = require('@mattblackdesign/to-seconds');
+const toSeconds = require('@mblackmblack/to-seconds');
 
-toMilliseconds({
+toSeconds({
 	days: 15,
 	hours: 11,
 	minutes: 23,

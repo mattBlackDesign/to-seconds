@@ -1,41 +1,46 @@
 {
-	"name": "@mattblackdesign/to-seconds",
-	"version": "0.1.0",
-	"description": "Convert an object of time properties to seconds: `{minutes: 2}` → `120`",
-	"license": "MIT",
-	"repository": "mattblackdesign/to-milliseconds",
-	"author": {
-		"name": "Matthew Black",
-		"email": "matthewjablack@gmail.com",
-		"url": "matthewblack.me"
-	},
-	"engines": {
-		"node": ">=8"
-	},
-	"scripts": {
-		"test": "xo && ava && tsd"
-	},
-	"files": [
-		"index.js",
-		"index.d.ts"
-	],
-	"keywords": [
-		"parse",
-		"object",
-		"properties",
-		"to",
-		"into",
-		"time",
-		"ms",
-		"seconds",
-		"duration",
-		"period",
-		"range",
-		"interval"
-	],
-	"devDependencies": {
-		"ava": "^1.4.1",
-		"tsd": "^0.7.1",
-		"xo": "^0.24.0"
-	}
+  "name": "@mblackmblack/to-seconds",
+  "version": "0.1.0",
+  "description": "Convert an object of time properties to seconds: `{minutes: 2}` → `120`",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattblackdesign/to-milliseconds.git"
+  },
+  "author": "Matthew Black <matthewjablack@gmail.com> (matthewblack.me)",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "parse",
+    "object",
+    "properties",
+    "to",
+    "into",
+    "time",
+    "ms",
+    "seconds",
+    "duration",
+    "period",
+    "range",
+    "interval"
+  ],
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.1",
+    "xo": "^0.24.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mattblackdesign/to-milliseconds/issues"
+  },
+  "homepage": "https://github.com/mattblackdesign/to-milliseconds#readme",
+  "main": "index.js",
+  "dependencies": {}
 }
